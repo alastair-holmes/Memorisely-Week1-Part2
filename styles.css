@@ -24,7 +24,7 @@ body {
 }
 
 .card {
-    background-color: #eef3fb;
+    background-color: #2f2f2f;
     border-radius: 20px;
     padding: 40px 32px;
     width: 320px;
@@ -34,13 +34,13 @@ body {
 .card-title {
     font-size: 32px;
     font-weight: 600;
-    color: #333;
+    color: #f5f5f5;
     margin-bottom: 8px;
 }
 
 .card-price {
     font-size: 20px;
-    color: #666;
+    color: #b5b5b5;
     margin-bottom: 24px;
 }
 
@@ -50,7 +50,7 @@ body {
 
 .includes-text {
     font-size: 16px;
-    color: #333;
+    color: #e6e6e6;
     margin-bottom: 16px;
 }
 
@@ -64,11 +64,11 @@ body {
     align-items: center;
     margin-bottom: 12px;
     font-size: 15px;
-    color: #333;
+    color: #e6e6e6;
 }
 
 .checkmark {
-    color: #4a4a4a;
+    color: #d0d0d0;
     font-size: 18px;
     margin-right: 12px;
     font-weight: bold;
